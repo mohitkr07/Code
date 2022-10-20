@@ -1,3 +1,7 @@
+//Iterate over the array
+//Comparing the current element(key) to its predecessor
+//If element is less than its predecessor, then shift the predessor 1 index ahead and compare the key with the elements before until no predecessor greater than key remain.
+
 #include <bits/stdc++.h>
 using namespace std;
 
